@@ -262,5 +262,5 @@ import '../scss/index.scss';
 ### assets/src/js/components/Title/index.js
 
 ...
-    <h1 className="title">{text}</h1>
+    "<h1 className="title">{text}</h1>"  // Remove Quote
 ...
